@@ -3,5 +3,5 @@
 
 void main()
 {
-
+	std::cout << "vsf visual eh uma merda";
 }
